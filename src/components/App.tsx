@@ -1,21 +1,17 @@
-import * as React from "react";
+import { Flex } from 'tochkak-ui';
 import { hot } from "react-hot-loader";
+import * as React from 'react';
 
-const reactLogo = require("./../assets/img/react_logo.svg");
-import "./../assets/scss/App.scss";
+const App = () => {
+    return (
+		<Flex
+		>
+		</Flex>
+    );
+};
 
-class App extends React.Component<{}, undefined> {
-    public render() {
-        return (
-            <div className="app">
-                <h1>Hello World!</h1>
-                <p>Foo to the barz</p>
-                <img src={reactLogo.default} height="480"/>
-            </div>
-        );
-    }
-}
+export default App;
 
-declare let module: object;
+// declare let module: object;
 
-export default hot(module)(App);
+// export default hot(module)(App);

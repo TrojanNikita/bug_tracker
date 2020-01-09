@@ -8499,6 +8499,11 @@ to-regex@^3.0.1, to-regex@^3.0.2:
     regex-not "^1.0.2"
     safe-regex "^1.1.0"
 
+tochkak-ui@^6.5.5:
+  version "6.5.5"
+  resolved "https://registry.yarnpkg.com/tochkak-ui/-/tochkak-ui-6.5.5.tgz#8b63b91d2b1050091672a73e1e3c4472047234e9"
+  integrity sha512-5jWPmFkVcz8QxJssXTB3HjLQqGmYiH6O+ATVnGQTiW0yE+Lw2ZuqmV0ZovFNqCDkmk1/Y1mUV6y4Ra5MBcaXYQ==
+
 toidentifier@1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/toidentifier/-/toidentifier-1.0.0.tgz#7e1be3470f1e77948bc43d94a3c8f4d7752ba553"

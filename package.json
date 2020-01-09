@@ -62,7 +62,7 @@
     "webpack-cli": "^3.3.10",
     "webpack-dev-middleware": "^3.7.2",
     "webpack-dev-server": "^3.10.1",
-    "webpack-merge": "^4.2.2"
-  },
-  "dependencies": {}
+    "webpack-merge": "^4.2.2",
+    "tochkak-ui": "^6.5.5"
+  }
 }
